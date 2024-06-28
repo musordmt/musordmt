@@ -1,6 +1,6 @@
 ## Hi there, Full-Stack, Web3, WebGL Developer HERE!!! 👋
 
-This is ✨ Jurij Galasevic ✨, a passionate 2D, 3D Web and Mobile Developer. As an experienced developer with a deep understanding of React, React Native, Node.js, TypeScript, Web3 and various Web and Mobile game engines with over 5 years of experience, I strongly believe that I would be an asset to your team.
+This is ✨ MusorDMT ✨, a passionate 2D, 3D Web and Mobile Developer. As an experienced developer with a deep understanding of React, React Native, Node.js, TypeScript, Web3 and various Web and Mobile game engines with over 5 years of experience, I strongly believe that I would be an asset to your team.
 
 My expertise in React and React Native includes proficiency in Redux for state management, React Router for navigation, and React Hooks for functional components. I have worked on several React Native projects, using Expo, React Native CLI and custom native modules for Android and iOS platforms.
 
